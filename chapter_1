@@ -82,3 +82,5 @@ public boolean verifyIdentity(byte[] data, byte[] signatureBytes, PublicKey publ
 > **Signing** is a seal on the outside of a box. Everyone can see what's inside, but no one can change it without breaking the seal.
 > **Encryption** is the box itself being made of lead. No one can see inside unless they have the key.
 > **In Identity Fabric, we primarily live and die by Signatures.**
+
+---
