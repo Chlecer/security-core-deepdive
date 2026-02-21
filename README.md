@@ -1,4 +1,3 @@
-This is the final architectural blueprint for your GitHub repository. It’s written with a professional, engineering-first tone—focused on the "why" and "how" of high-end security systems. No fluff, just the technical rigor expected in 2026.
 
 ---
 

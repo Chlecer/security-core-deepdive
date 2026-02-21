@@ -1,9 +1,5 @@
-To explain security "to the bone," we must start with the difference between **signing** and **encrypting**. Many developers use these terms interchangeably, but in the world of Identity Providers (IdP) and Java 25, confusing them is a fundamental architectural error.
-
-Here is the first chapter for your README: **"Chapter 1: The Cryptographic Skeleton — Signing vs. Encrypting."**
 
 ---
-
 ## Chapter 1: The Cryptographic Skeleton
 
 In a Zero Trust architecture, we don't trust the network, and we don't trust the client. We only trust **Mathematics**.
